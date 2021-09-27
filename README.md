@@ -1,2 +1,2 @@
 # maxon
-Great repository names are short and memorable. Need inspiration? How about legendary-computing-machine? 
+https://arpasaha-as.github.io/maxon/
